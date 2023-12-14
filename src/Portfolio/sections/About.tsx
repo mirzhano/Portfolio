@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const About = () => {
   return (
     <section
-      className="flex lg:max-w-[1212.8px] md:py-20 flex-wrap md:flex-nowrap  justify-center"
+      className="flex lg:max-w-[1212.8px] py-20 flex-wrap md:flex-nowrap  justify-center"
       id="about"
     >
       <div className="mx-auto flex flex-col items-center justify-center ">
