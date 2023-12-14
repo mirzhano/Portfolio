@@ -18,8 +18,8 @@ const Hero = () => {
                 <div
                     className={`relative text-center flex flex-col items-center justify-center  pointer-events-none`}
                 >
-                    <AnimatedBody delay={4.5} text="OKENOVA MIRZHAN" className="text-[40px] md:text-[80px] "  />
-                    <AnimatedBody delay={5} text="Welcome to my portfolio" className="text-[30px] uppercase md:text-[20px] "  />
+                    <AnimatedBody delay={4.5} text="OKENOVA MIRZHAN" className="text-[40px] md:text-[80px] text-center"  />
+                    <AnimatedBody delay={5} text="Welcome to my portfolio" className="text-[18px] mt-3 uppercase md:text-[20px] text-center"  />
                 </div>
             </div>
         </motion.section>

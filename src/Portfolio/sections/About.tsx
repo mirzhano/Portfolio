@@ -32,6 +32,21 @@ const About = () => {
             <AnimatedBody
               delay={0.2}
               text="Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations."
+            /> 
+            <AnimatedBody
+              delay={0.2}
+              text="Date of birth: March 4, 2004
+             "
+            /> <AnimatedBody
+              delay={0.2}
+              text=" Hobbies: Music, singing, dancing and reading
+             
+             "
+            /><AnimatedBody
+              delay={0.2}
+              text="  Education: secondary school named after A. Alybakov, INAI.
+             
+             "
             />
           </div>
         </div>
