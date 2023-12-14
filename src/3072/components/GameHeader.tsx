@@ -1,4 +1,4 @@
-import DisplayBlock from "./DisplayBlock.tsx"
+import DisplayBlock from "./DisplayBlock"
 
 interface GameHeaderProps {
     setGameMatrix: Function;

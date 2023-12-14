@@ -1,8 +1,8 @@
-import Grid from "./Grid.tsx";
-import {getFreshMatrix} from "../util.ts";
-import GameHeader from "./GameHeader.tsx";
+import Grid from "./Grid";
+import {getFreshMatrix} from "../util";
+import GameHeader from "./GameHeader";
 import {useEffect, useState} from "react";
-import {handleArrowKey} from "../util.ts";
+import {handleArrowKey} from "../util";
 
 interface Game3072Props {
     size: number;

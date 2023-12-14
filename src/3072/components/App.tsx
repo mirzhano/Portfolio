@@ -1,7 +1,7 @@
 import "../css/App.css";
-import Game3072 from "./Game3072.tsx";
+import Game3072 from "./Game3072";
 import "../css/Cell.css";
-import InstructionsModal from "./InstructionsModal.tsx";
+import InstructionsModal from "./InstructionsModal";
 import { useState } from "react";
 
 const SIZE = 4;

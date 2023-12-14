@@ -1,5 +1,5 @@
-import Cell from "./Cell.tsx";
-import GameOver from "./GameOver.tsx"
+import Cell from "./Cell";
+import GameOver from "./GameOver"
 
 interface gridProps {
     gameMatrix: number[][];

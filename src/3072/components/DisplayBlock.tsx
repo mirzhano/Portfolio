@@ -1,5 +1,5 @@
-import NewGameButton from "./NewGameButton.tsx";
-import ScoreDisplays from "./ScoreDisplays.tsx";
+import NewGameButton from "./NewGameButton";
+import ScoreDisplays from "./ScoreDisplays";
 
 interface DisplayBlockProps {
     currentScore: number;

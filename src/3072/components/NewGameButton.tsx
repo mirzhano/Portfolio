@@ -1,5 +1,5 @@
-import {getFreshMatrix} from "../util.ts";
-import Button from "./Button.tsx";
+import {getFreshMatrix} from "../util";
+import Button from "./Button";
 interface NewGameButtonProps {
     setGameMatrix: Function;
     size: number;

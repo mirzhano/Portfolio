@@ -1,4 +1,4 @@
-import Button from "./Button.tsx";
+import Button from "./Button";
 import { MouseEventHandler, ReactNode } from "react";
 
 interface InstructionsModalProps {

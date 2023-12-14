@@ -1,4 +1,4 @@
-import Display from "./Display.tsx";
+import Display from "./Display";
 
 interface ScoreDisplaysProps {
     currentScore: number;

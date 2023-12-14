@@ -1,5 +1,5 @@
-import GameOverCell from "./GameOverCell.tsx";
-import NewGameButton from "./NewGameButton.tsx";
+import GameOverCell from "./GameOverCell";
+import NewGameButton from "./NewGameButton";
 
 interface GameOverProps {
     gameMatrix: number[][];
